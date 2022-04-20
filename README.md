@@ -7,4 +7,4 @@ Les exigences du projet sont décrites dans le fichier **Projet_sujet.pdf**
 
 Le rapport d'analyse est dans : **Rapport_projet_AI_prediction_Covid_19.pdf**
 
-Les modèle utilisé : **Polinomial Regression**, **SVR**, **LSTM-univariate** et **LSTM-multivariate**
+Les modèles utilisés : **Polinomial Regression**, **SVR**, **LSTM-univariate** et **LSTM-multivariate**
